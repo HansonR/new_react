@@ -44,3 +44,24 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## tree added
+--------------------------------------------------------------------
+- src/
+    - screen: We create this folder for all pages of the site
+    - components: This folder is create for components for pages
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+- intall react-router
+    - npm install react-router-dom@6 (https://reactrouter.com/en/main)
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+- site styling (https://tailwindcss.com/docs/guides/create-react-app)
+    - npm install -D tailwindcss
+    - npx tailwindcss init (create a tailwind.config.js)
+--------------------------------------------------------------------
+
+
+
